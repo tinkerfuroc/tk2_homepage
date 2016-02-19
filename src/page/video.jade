@@ -1,0 +1,11 @@
+extends ../layout/base
+
+append main
+    .page-header
+        h2 Video
+        
+    .row
+        each item in video
+            .col-xs-12.col-md-8.col-md-offset-2
+                .embed-responsive.embed-responsive-4by3
+                    iframe.embed-responsive-item(src=item.src)

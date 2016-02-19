@@ -1,0 +1,15 @@
+extends ../layout/base
+
+append main
+    .page-header
+        h2 Gallery
+        
+    .row
+        each item in gallery
+            .col-sm-6.col-md-4
+                .thumbnail
+                    +img-responsive(item.src)
+                    //- .caption
+                    //-     h3 #{item.title}
+                    //-     p #{item.description}
+                    

@@ -1,0 +1,27 @@
+nav.navbar.navbar-inverse.navbar-fixed-top
+    .container
+        .navbar-header
+            button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+            a.navbar-brand(href=homepage) #{title}
+        #navbar.navbar-collapse.collapse
+            ul.nav.navbar-nav
+                +nav_item("index.html") 
+                    i.fa.fa-home
+                    | Home
+                +nav_item("gallery.html") 
+                    i.fa.fa-camera
+                    | Gallery
+                +nav_item("video.html") 
+                    i.fa.fa-video-camera
+                    | Video
+                +nav_item("document.html")
+                    i.fa.fa-book
+                    | Document
+            ul.nav.navbar-nav.navbar-right
+                +nav_item("members.html") 
+                    i.fa.fa-user
+                    | Members

@@ -1,0 +1,22 @@
+{
+  "name": "tinker-site",
+  "description": "The homepage of FuRoC Tinker@home",
+  "main": "index.jade",
+  "authors": [
+    "yht199505@gmail.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jade-bootstrap": "*",
+  }
+}

@@ -1,0 +1,11 @@
+extends ../../bower_components/jade-bootstrap/_bootstrap
+
+append styles
+    link(href='asset/style.css', rel='stylesheet')
+    link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css', rel='stylesheet')
+    
+block body
+    include nav
+    .container.main-container
+        block main
+    include footer

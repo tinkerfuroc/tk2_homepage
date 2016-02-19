@@ -1,0 +1,13 @@
+extends ../layout/base
+
+append main
+    .page-header
+        h2 Members
+    .row
+        each item in members
+            .col-xs-6.col-sm-4.col-md-3
+                img.img-rounded(src=item.avatar,width="70%")
+                .caption
+                    h3=item.name
+                    h4=item.degree
+                    
