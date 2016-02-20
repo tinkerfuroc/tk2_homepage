@@ -4,6 +4,7 @@
     "description":"description",
     "carousel":[
         {"image":"./asset/image/2.jpg","p":"Tinker@home"},
+        {"image":"./asset/image/3.jpg","p":"Tinker@home"},
         {"image":"./asset/image/6.jpg","p":"Tinker@home"}
     ],
     "gallery":[
@@ -13,8 +14,7 @@
         {"src":"./asset/image/4.jpg","title":"title","description":"hello"},
         {"src":"./asset/image/5.jpg","title":"title","description":"hello"},
         {"src":"./asset/image/6.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/7.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/8.jpg","title":"title","description":"hello"}
+        {"src":"./asset/image/7.jpg","title":"title","description":"hello"}
     ],
     "video":[
         {"src":"https://www.youtube.com/embed/utF1zbRzmRw"}
