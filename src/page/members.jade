@@ -5,8 +5,8 @@ append main
         h2 Members
     .row
         each item in members
-            .col-xs-6.col-sm-4.col-md-3
-                img.img-rounded(src=item.avatar,width="70%")
+            .col-xs-12.col-sm-6.col-md-3
+                img.member.img-responsive.img-rounded(src=item.avatar)
                 .caption
                     h3=item.name
                     h4=item.degree
