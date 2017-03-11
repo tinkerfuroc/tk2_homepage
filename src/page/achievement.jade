@@ -1,0 +1,13 @@
+extends ../layout/base
+
+append main
+    .page-header
+        h2 Achievement
+
+    +table-striped(
+            ["Competition","Location","Achievement"],
+            [
+                ["RoboCup@home 2014","João Pessoa, Brazil","Stage I rank 10"],
+                ["RoboCup@home 2015","Hefei, China","Stage I rank 10"],
+                ["RoboCup@home 2016","Leipzig, Germany","Stage I rank 5"],
+            ])

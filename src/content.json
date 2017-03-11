@@ -1,35 +1,39 @@
 {
     "title":"Tinker@home",
     "homepage":"http://tinker.furoc.net",
-    "description":"description",
+    "description":"Made by Tinker@Home Group, Tsinghua University, China.",
     "carousel":[
-        {"image":"./asset/image/2.jpg","p":"Tinker@home"},
-        {"image":"./asset/image/3.jpg","p":"Tinker@home"},
-        {"image":"./asset/image/6.jpg","p":"Tinker@home"}
+        {"image":"./asset/image/12.jpg","p":"Tinker@home"},
+        {"image":"./asset/image/11.jpg","p":"Tinker@home"},
+        {"image":"./asset/image/10.jpg","p":"Tinker@home"}
     ],
     "gallery":[
-        {"src":"./asset/image/1.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/2.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/3.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/4.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/5.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/6.jpg","title":"title","description":"hello"},
-        {"src":"./asset/image/7.jpg","title":"title","description":"hello"}
+        {"src":"./asset/image/1.jpg","title":"title","description":""},
+        {"src":"./asset/image/2.jpg","title":"title","description":""},
+        {"src":"./asset/image/3.jpg","title":"title","description":""},
+        {"src":"./asset/image/4.jpg","title":"title","description":""},
+        {"src":"./asset/image/5.jpg","title":"title","description":""},
+        {"src":"./asset/image/6.jpg","title":"title","description":""},
+        {"src":"./asset/image/7.jpg","title":"title","description":""},
+        {"src":"./asset/image/9.jpg","title":"title","description":""},
+        {"src":"./asset/image/8.jpg","title":"title","description":""},
+        {"src":"./asset/image/12.jpg","title":"title","description":""},
+        {"src":"./asset/image/10.jpg","title":"title","description":""},
+        {"src":"./asset/image/11.jpg","title":"title","description":""}
     ],
     "video":[
-        {"src":"https://www.youtube.com/embed/utF1zbRzmRw"}
+        {"src":"https://www.youtube.com/embed/eVLz-wZpGg4"}
     ],
     "document":"https://raw.githubusercontent.com/tinkerfuroc/tinker2016_tdp/master/main.pdf",
     "members":[
         {"avatar":"https://avatars1.githubusercontent.com/u/9391073","name":"Guo Jiacheng","degree":"Undergraduate"},
-        {"avatar":"http://fxia.me/assets/img/feixia.png","name":"Xia Fei","degree":"Undergraduate"},
         {"avatar":"https://avatars1.githubusercontent.com/u/7812032","name":"Yao Haotian","degree":"Undergraduate"},
-        {"avatar":"https://avatars0.githubusercontent.com/u/4828553","name":"Zhang Xunkai","degree":"Undergraduate"},
+        {"avatar":"https://avatars1.githubusercontent.com/u/7428227","name":"Ma Haocheng","degree":"Undergraduate"},
         {"avatar":"https://avatars0.githubusercontent.com/u/9162943","name":"Dong Yuan","degree":"Undergraduate"},
-        {"avatar":"https://avatars3.githubusercontent.com/u/11678634","name":"Guo Cong","degree":"Master"},
         {"avatar":"https://avatars3.githubusercontent.com/u/13288274","name":"Wang Xukang","degree":"Undergraduate"},
         {"avatar":"https://avatars1.githubusercontent.com/u/13834251","name":"Zhu Yiling","degree":"Undergraduate"},
-        {"avatar":"https://avatars0.githubusercontent.com/u/7445439","name":"Beng Shaoshi","degree":"Master"},
-        {"avatar":"https://avatars1.githubusercontent.com/u/7428227","name":"Ma Haocheng","degree":"Undergraduate"}
+        {"avatar":"http://fxia.me/assets/img/feixia.png","name":"Xia Fei","degree":"Undergraduate"},
+        {"avatar":"https://avatars0.githubusercontent.com/u/4828553","name":"Zhang Xunkai","degree":"Undergraduate"},
+        {"avatar":"https://avatars0.githubusercontent.com/u/7445439","name":"Beng Shaoshi","degree":"Master"}
     ]
 }
