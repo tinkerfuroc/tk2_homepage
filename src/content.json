@@ -1,11 +1,11 @@
 {
     "title":"Tinker@home",
-    "homepage":"http://tinker.furoc.net",
+    "homepage":"http://tinker.furoc.club",
     "description":"Made by Tinker@Home Group, Tsinghua University, China.",
     "carousel":[
-        {"image":"./asset/image/12.jpg","p":"Tinker@home"},
-        {"image":"./asset/image/11.jpg","p":"Tinker@home"},
-        {"image":"./asset/image/10.jpg","p":"Tinker@home"}
+        {"image":"./asset/image/12.jpg","p":"Tinker@home 2016"},
+        {"image":"./asset/image/11.jpg","p":"Tinker@home 2017"},
+        {"image":"./asset/image/10.jpg","p":"Tinker@home 2019"}
     ],
     "gallery":[
         {"src":"./asset/image/1.jpg","title":"title","description":""},
@@ -22,9 +22,9 @@
         {"src":"./asset/image/11.jpg","title":"title","description":""}
     ],
     "video":[
-        {"src":"https://www.youtube.com/embed/eVLz-wZpGg4"}
+        {"src":"https://www.youtube.com/embed/at3TRj44UUw"}
     ],
-    "document":"https://raw.githubusercontent.com/tinkerfuroc/tinker_tdp/master/main.pdf",
+    "document":"https://raw.githubusercontent.com/tinkerfuroc/tinker_tdp/master/Tinker_TDP_Robocup@Home_2019.pdf",
     "members":[
         {"avatar":"https://avatars1.githubusercontent.com/u/9391073","name":"Guo Jiacheng","degree":"Undergraduate"},
         {"avatar":"https://avatars1.githubusercontent.com/u/7812032","name":"Yao Haotian","degree":"Undergraduate"},
