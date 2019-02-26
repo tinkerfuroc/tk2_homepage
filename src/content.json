@@ -24,14 +24,14 @@
     "video":[
         {"src":"https://www.youtube.com/embed/at3TRj44UUw"}
     ],
-    "document":"https://raw.githubusercontent.com/tinkerfuroc/tinker_tdp/master/Tinker_TDP_Robocup@Home_2019.pdf",
+    "document":"http://raw.githubusercontent.com/tinkerfuroc/tinker_tdp/master/Tinker_TDP_Robocup@Home_2019.pdf",
     "members":[
         {"avatar":"https://avatars2.githubusercontent.com/u/20389852","name":"Huo Jianghao","degree":"Undergraduate"},
         {"avatar":"https://avatars1.githubusercontent.com/u/7428227","name":"Ma Haocheng","degree":"Graduate"},
         {"avatar":"https://avatars2.githubusercontent.com/u/15924971","name":"Ma Renjie","degree":"Undergraduate"},
         {"avatar":"https://avatars2.githubusercontent.com/u/11908012","name":"Zhang Han","degree":"Undergraduate"},
         {"avatar":"https://avatars3.githubusercontent.com/u/28824203","name":"Zhang Zijian","degree":"Undergraduate"},
-        {"avatar":"https://avatars2.githubusercontent.com/u/45732358","name":"Ye Lubin","degree":"Undergraduate"},
+        {"avatar":"https://avatars2.githubusercontent.com/u/45732358","name":"Ye Lubin","degree":"Undergraduate"}
 
     ]
 }
